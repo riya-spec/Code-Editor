@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/run"
+        android:title="Run" />
+    <item
+        android:id="@+id/add_html"
+        android:title="Add HTML Structure" />
+
+    <item
+        android:id="@+id/add_table"
+        android:title="Add Table " />
+    <item
+        android:id="@+id/add_form"
+        android:title="Add Form" />
+
+    <item
+        android:id="@+id/add_image"
+        android:title="Add Image">
+
+        <menu>
+            <item android:id="@+id/subitem1"
+                android:title="Add Rose Image"/>
+
+            <item android:id="@+id/subitem2"
+                android:title="Add Car Image"/>
+
+
+            <item android:id="@+id/subitem3"
+                android:title="Add Nature Gallery"/>
+
+
+
+
+
+        </menu>
+
+
+    </item>
+
+    <item
+        android:id="@+id/clear"
+        android:title="Clear" />
+
+    <item
+        android:id="@+id/close"
+        android:title="Close App" />
+</menu>

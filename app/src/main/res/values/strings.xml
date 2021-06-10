@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodeEditor</string>
+    <string name="enter_your_code">Enter Your Code</string>
+</resources>
