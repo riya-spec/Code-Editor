@@ -9,4 +9,4 @@ Add Image Option,Opens a new submenu with the toast message that "Opening option
 Add Car Image, Add Natures Gallery(These will provide a template to the user and they can change it according to thier needs.On clicking any image ,
 It opens into larger view in the Google Drive.
 
-I am trying to add more features to this so as to make it compatible for all the langauges avalable to code.
+I am trying to add more features to this so as to make it compatible for all the langauges available to code.
